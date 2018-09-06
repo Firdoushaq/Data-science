@@ -1,0 +1,70 @@
+
+1) Write a Python program to find those numbers which are divisible by 7 and multiple of 5, between 1 and 100 (both included)
+
+2) Write a Python program to convert temperatures to and from celsius, fahrenheit
+
+3) Write a Python program to guess a number between 1 to 9
+
+4) Write a Python program to construct the following pattern, using a nested for loop.
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
+
+5) Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them
+
+6) Write a Python program to count the number of even and odd numbers from a series of numbers
+
+7) Write a Python program that prints all the numbers from 0 to 6 except 3 and 6
+
+8) Write a Python program to get the Fibonacci series between 0 to 50
+
+9) Write a Python program to check whether an alphabet is a vowel or consonant
+
+10) Write a Python program to check a string represent an integer or not.
+
+11) Write a Python program to check a triangle is equilateral, isosceles or scalene
+
+12) Write a Python program which accepts a sequence of comma-separated numbers from user and generate a list and a tuple with those numbers
+
+13) Write a Python program to accept a filename from the user and print the extension of that.
+
+14) Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.
+
+15) Write a Python program to get the volume of a sphere with radius 6.
+
+16) Write a Python program to get the difference between a given number and 17, if the number is greater than 17 return double the absolute difference
+
+17)Write a Python program to calculate the sum of three given numbers, if the values are equal then return thrice of their sum
+
+18)Write a Python program to get the n (non-negative integer) copies of the first 2 characters of a given string. Return the n copies of the whole string if the length is less than 2.
+
+19) Write a Python program to compute the greatest common divisor (GCD) of two positive integers
+
+20) Write a Python program to get the least common multiple (LCM) of two positive integers
+
+21) Write a Python program to compute the distance between the points (x1, y1) and (x2, y2).
+
+22) Given a number check whether its prime or not
+
+23) Print all the prime numbers from 1 to 100
+
+24) Print 2 to 10 tables
+
+25) Convert keys and values in a dictionary to values and keys
+
+26) Count the total of vowels and consonants in a string.
+
+27) Write a Python program to count the number of characters (character frequency) in a string
+
+28) Write a Python function that takes a list of words and returns the length of the longest one
+
+29) Write a Python program to create a Caesar encryption
+
+30)Write a Python program to create all possible strings by using 'a', 'e', 'i', 'o', 'u'. Use the characters exactly once.
